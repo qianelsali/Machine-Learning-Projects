@@ -2,4 +2,4 @@
 Data Incubator Capstone Project
 
 
-on-going, not finished yet... :-)
+ongoing, not finished yet :-)
