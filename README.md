@@ -8,20 +8,21 @@
  
  c) design a promotion on payers and non-payers
  
- The framework of the code:
-    0) explore the game users's behaviors:
-        Active days, Convert Gap days, Pay Frequency of payers, Paid values, Averaged Paid values
-    1) decide the time window
-    2) select the target group
-    3) feature selection
-    4) modeling: logistic regression- sklearn
-    5) test the classifer at the fourth day of installation
-    6) implement the promotion
-    7) evaluate promotion effects:
-        revenue, 
-        convert rate
-        convert days
-        active days
+  The framework of the code:
+  
+     0) explore the game users's behaviors:
+         Active days, Convert Gap days, Pay Frequency of payers, Paid values, Averaged Paid values
+     1) decide the time window
+     2) select the target group
+     3) feature selection
+     4) modeling: logistic regression- sklearn
+     5) test the classifer at the fourth day of installation
+     6) implement the promotion
+     7) evaluate promotion effects:
+         revenue, 
+         convert rate
+         convert days
+         active days
     
 
 
