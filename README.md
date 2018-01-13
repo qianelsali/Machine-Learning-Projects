@@ -10,22 +10,19 @@ The goal of this project is to design a sale that maximizes incremental revenue.
 
 The data includes a group of users who installed during the first quarter of 2016.
 
-●	User data, including user ID and install date
-●	Session history, including date and session number
-●	Purchase history, including date and amount
-●	Spending history, including date, currency, and amount
+    ●	User data, including user ID and install date
+    ●	Session history, including date and session number
+    ●	Purchase history, including date and amount
+    ●	Spending history, including date, currency, and amount
 
 Objectives: 
 
- a) explore gamer user behavior
-      
- b) build a classfier to predict who are going to be payers and non-payers at the initial installation stage
+    a) explore gamer user behavior
+    b) build a classfier to predict who are going to be payers and non-payers at the initial installation stage
+    c) design a promotion on predicted payers and non-payers
+    d) design metrics to evalute the promotion effects                  
  
- c) design a promotion on predicted payers and non-payers
- 
- d) design metrics to evalute the promotion effects                  
- 
-  The framework of the code:
+ The framework of the code:
   
      0) explore the game users's behaviors:
          Active days, Convert Gap days, Pay Frequency of payers, Paid values, Averaged Paid values
