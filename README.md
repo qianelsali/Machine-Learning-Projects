@@ -2,7 +2,7 @@
 
 ## 1. Project 1: Promotions towards Game Users at the Initial Installation Stage
 
- a) explore the users behavior of game users
+ a) explore gamer user behavior
       
  b) build a classfier to predict who are going to be payers and non-payers
  
