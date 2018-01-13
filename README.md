@@ -39,6 +39,7 @@ Objectives:
          active days
     
 
+Please see the detailed analysis in the document file: Project1_GameUserPrediction.doc
 
 ## 2. Project 2: prediction of New York Metro Station Flows
 
