@@ -438,20 +438,6 @@ for i in range(100):
 print('Accuracy of classifer:', sum(accuracy)/len(accuracy))
 
 
-# =============================================================================
-# # support vector machine
-# =============================================================================
-from sklearn.svm import SVC
-
-X_train, X_test, y_train, y_test = train_test_split(
-                  x, y, test_size=0.33)    
-model = SVC(kernel='linear', probability=True, class_weight='balanced')
-model.fit(X_train, y_train)
-print(model.score(X_test, y_test))
-
-
-
-
 '''
 Our goal is to identify those not-yet-payers in the initial stage, now let’s run a more rigid test on the users whose active days are less than 12 days. 
 '''
