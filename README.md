@@ -4,9 +4,11 @@
 
  a) explore gamer user behavior
       
- b) build a classfier to predict who are going to be payers and non-payers
+ b) build a classfier to predict who are going to be payers and non-payers at the initial installation stage
  
- c) design a promotion on payers and non-payers
+ c) design a promotion on predicted payers and non-payers
+ 
+ d) design metrics to evalute the promotion effects                  
  
   The framework of the code:
   
