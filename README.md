@@ -1,6 +1,6 @@
 # Data-Capstone-Projects
 
-## 1. Project two: Promotions towards Game Users at the Initial Installation Stage
+## 1. Project 1: Promotions towards Game Users at the Initial Installation Stage
 
  a) explore the users behavior of game users
  
@@ -10,6 +10,6 @@
 
 
 
-## 2. Project one: prediction of New York Metro Station Flows
+## 2. Project 2: prediction of New York Metro Station Flows
 
  Objectives: Using Time Series to estimate New York Metro Station flows
